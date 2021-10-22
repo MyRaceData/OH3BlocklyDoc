@@ -10,7 +10,7 @@ Function:
 Get the state of an **Item**
 
 Notes:
-Clicking 'MyItem' displays a list of **Items** to pick from
+1. Clicking 'MyItem' displays a list of **Items** to pick from
 
 ### Send Command
 Block image:
@@ -21,8 +21,8 @@ Function:
 Sends a Command to an **Item**
 
 Notes:
-valid input is like **Items** eg. ON or OFF for a switch
-Clicking 'MyItem' displays a list of **Items** to pick from
+1. valid input is like **Items** eg. ON or OFF for a switch
+2. Clicking 'MyItem' displays a list of **Items** to pick from
 
 ### Log Statement
 Block image:
