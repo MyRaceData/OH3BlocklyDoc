@@ -37,4 +37,4 @@ Drop down list for log statement severity
   Levels:
     error
     Trace
-    ![LogLevel](https://github.com/MyRaceData/OH3BlocklyDoc/blob/main/LogLevel.png)
+    ![LogLevel](https://github.com/MyRaceData/OH3BlocklyDoc/blob/main/OHLog.png)
