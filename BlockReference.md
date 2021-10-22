@@ -34,7 +34,12 @@ Sends a entry to the openHAB log file
 
 Notes:
 Drop down list for log statement severity
-  Levels:
-    error
-    Trace
-    ![LogLevel](https://github.com/MyRaceData/OH3BlocklyDoc/blob/main/logLevel.png)
+Levels:
+1. error
+2. warn
+3. info
+4. debug
+5. trace
+
+![LogLevel](https://github.com/MyRaceData/OH3BlocklyDoc/blob/main/logLevelcrop.png)
+
