@@ -1,16 +1,60 @@
-## Block Reference
+# openHAB Blockly Reference
+openHAB specific Blockly language block reference
+##### *Blocks available as of version 3.2.0.M4 (release date: 7 Oct. 2021)* #####
+###### image of openHAB specific block catagories ######
+![GetItemState](https://github.com/MyRaceData/BlocklyImg/blob/main/toolboxcatagories.png)
 ## Items and Things
-
-### Get Item State
-Block image:
-
-![GetItemState](https://github.com/MyRaceData/OH3BlocklyDoc/blob/main/GetItemState.png)
+###### image of Items and Things catagory ######
+![ItemsAndThings](https://github.com/MyRaceData/BlocklyImg/blob/main/itemsandthings.png)
+### Item
+###### Block image: ######
+![GetItemState](https://github.com/MyRaceData/BlocklyImg/blob/main/item.png)
 
 Function:
-Get the state of an **Item**
+Retrieves a specific **Item**  or **Group** for use in other item related functions
 
 Notes:
 1. Clicking 'MyItem' displays a list of **Items** to pick from
+### Get Item ###
+###### Block image: ######
+![GetItemState](https://github.com/MyRaceData/BlocklyImg/blob/main/getitem.png)
+
+Function:
+Gets an **Item** for use in other item related functions
+
+Notes:
+1. Clicking 'MyItem' displays a list of **Items** to pick from
+### Get Members of Group ###
+###### Block image: ######
+![GetItemState](https://github.com/MyRaceData/BlocklyImg/blob/main/getmemberofgroup.png)
+
+Function:
+Gets the members of a **group**
+
+Notes:
+1. A valid group must be used
+### Get State of Item ###
+###### Block image: ######
+![GetItemState](https://github.com/MyRaceData/BlocklyImg/blob/main/getstateofitem.png)
+
+Function:
+Get the current state of an **Item**
+
+Notes:
+### Get Name of Item ###
+###### Block image: ######
+![GetItemState](https://github.com/MyRaceData/BlocklyImg/blob/main/getnameofitem.png)
+
+Function:
+Get the current name, label, state, catagory, tags, groups, or type of an **Item**
+![GetItemState](https://github.com/MyRaceData/BlocklyImg/blob/main/itemnameoptions.png)
+
+Notes:
+
+
+
+
+
 
 ### Send Command
 Block image:
