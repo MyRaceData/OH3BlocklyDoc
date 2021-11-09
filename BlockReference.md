@@ -38,7 +38,7 @@ Notes:
 ![GetItemState](https://github.com/MyRaceData/BlocklyImg/blob/main/getstateofitem.png)
 
 Function:
-Get the current state of an **Item**
+Get the current state of an **Item**  or **Group**
 
 Notes:
 ### Get Name of Item ###
@@ -56,7 +56,8 @@ Block image:
 ![SendCommand](https://github.com/MyRaceData/OH3BlocklyDoc/blob/main/SendCommand.png)
 
 Function:
-Sends a Command or posts an Update to an **Item**
+Sends a command or posts an update to an **Item**  or **Group**
+
 ![Sendoptions](https://github.com/MyRaceData/BlocklyImg/blob/main/sendoptions.png)
 
 Notes:
