@@ -8,7 +8,7 @@ openHAB specific Blockly language block reference
 ![ItemsAndThings](https://github.com/MyRaceData/BlocklyImg/blob/main/itemsandthings.png)
 ### Item
 ###### Block image: ######
-![GetItemState](https://github.com/MyRaceData/BlocklyImg/blob/main/item.png)
+![Item](https://github.com/MyRaceData/BlocklyImg/blob/main/item.png)
 
 Function:
 Retrieves a specific **Item**  or **Group** for use in other item related functions
@@ -17,7 +17,7 @@ Notes:
 1. Clicking 'MyItem' displays a list of **Items** to pick from
 ### Get Item ###
 ###### Block image: ######
-![GetItemState](https://github.com/MyRaceData/BlocklyImg/blob/main/getitem.png)
+![GetItem](https://github.com/MyRaceData/BlocklyImg/blob/main/getitem.png)
 
 Function:
 Gets an **Item** for use in other item related functions
@@ -26,7 +26,7 @@ Notes:
 1. Clicking 'MyItem' displays a list of **Items** to pick from
 ### Get Members of Group ###
 ###### Block image: ######
-![GetItemState](https://github.com/MyRaceData/BlocklyImg/blob/main/getmemberofgroup.png)
+![Getmember](https://github.com/MyRaceData/BlocklyImg/blob/main/getmemberofgroup.png)
 
 Function:
 Gets the members of a **group**
@@ -43,26 +43,21 @@ Get the current state of an **Item**
 Notes:
 ### Get Name of Item ###
 ###### Block image: ######
-![GetItemState](https://github.com/MyRaceData/BlocklyImg/blob/main/getnameofitem.png)
+![GetItemName](https://github.com/MyRaceData/BlocklyImg/blob/main/getnameofitem.png)
 
 Function:
 Get the current name, label, state, catagory, tags, groups, or type of an **Item**
-![GetItemState](https://github.com/MyRaceData/BlocklyImg/blob/main/itemnameoptions.png)
+![ItemOptions](https://github.com/MyRaceData/BlocklyImg/blob/main/itemnameoptions.png)
 
 Notes:
-
-
-
-
-
-
 ### Send Command
 Block image:
 
-![GetItemState](https://github.com/MyRaceData/OH3BlocklyDoc/blob/main/SendCommand.png)
+![SendCommand](https://github.com/MyRaceData/OH3BlocklyDoc/blob/main/SendCommand.png)
 
 Function:
-Sends a Command to an **Item**
+Sends a Command or posts an Update to an **Item**
+![Sendoptions](https://github.com/MyRaceData/BlocklyImg/blob/main/sendoptions.png)
 
 Notes:
 1. valid input is like **Items** eg. ON or OFF for a switch
