@@ -104,6 +104,20 @@ Options for time
 
 ![Time Options](https://github.com/MyRaceData/BlocklyImg/blob/main/timeroptions.png)
 
+### After *period of time* Do With Timer With Reschedule###
+Block image:
+
+![AfterTimeDoWithTimerWithRetrigger](https://github.com/MyRaceData/BlocklyImg/blob/main/afterXdowithtimerretrigger.png)
+
+Function:
+Schedule a task to be performed at a specified period in the future with the ability to reschedule, cancel or ignore the timer in the event the timer is retriggered
+
+Notes:
+1. a number may be directly entered into gray box
+
+Options for Reschedule
+
+![Reschedule Options](https://github.com/MyRaceData/BlocklyImg/blob/main/rescheduleoptions.png)
 ___
 ## Voice and Multimedia
 ###### image of Voice and Multimedia catagory ######
