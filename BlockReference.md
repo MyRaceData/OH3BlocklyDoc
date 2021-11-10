@@ -104,7 +104,7 @@ Options for time
 
 ![Time Options](https://github.com/MyRaceData/BlocklyImg/blob/main/timeroptions.png)
 
-### After *period of time* Do With Timer With Reschedule###
+### After *period of time* Do With Timer With Reschedule ###
 Block image:
 
 ![AfterTimeDoWithTimerWithRetrigger](https://github.com/MyRaceData/BlocklyImg/blob/main/afterXdowithtimerretrigger.png)
@@ -114,6 +114,9 @@ Schedule a task to be performed at a specified period in the future with the abi
 
 Notes:
 1. a number may be directly entered into gray box
+2. If reschedule is selected, the timer will restart if the timer is retriggered
+3. If cancel is selected, retriggering the timer will cancel it
+4. If do nothing is selected, retriggering the timer will be ignored
 
 Options for Reschedule
 
