@@ -3,6 +3,7 @@ openHAB specific Blockly language block reference
 ##### *Blocks available as of version 3.2.0.M4 (release date: 7 Oct. 2021)* #####
 ###### image of openHAB specific block catagories ######
 ![GetItemState](https://github.com/MyRaceData/BlocklyImg/blob/main/toolboxcatagories.png)
+___
 ## Items and Things
 ###### image of Items and Things catagory ######
 ![ItemsAndThings](https://github.com/MyRaceData/BlocklyImg/blob/main/itemsandthings.png)
@@ -63,7 +64,30 @@ Sends a command or posts an update to an **Item**  or **Group**
 Notes:
 1. valid input is like **Items** eg. ON or OFF for a switch
 2. Clicking 'MyItem' displays a list of **Items** to pick from
+___
+## Timers and Delays
+###### image of Timers and Delays catagory ######
+![TimersAndDelays](https://github.com/MyRaceData/BlocklyImg/blob/main/timersanddelays1.png)
+### Thread Sleep
+Block image:
 
+![ThreadSleep](https://github.com/MyRaceData/BlocklyImg/blob/main/threadsleep.png)
+
+Function:
+Suspends execution of the rule for a given period of time
+
+Notes:
+1. unit of time (ms) is milliseconds
+2. 1000 ms = 1 second
+___
+## Voice and Multimedia
+###### image of Voice and Multimedia catagory ######
+![VoiceandMultimedia](https://github.com/MyRaceData/BlocklyImg/blob/main/voiceandmultimedia.png)
+___
+
+
+
+___
 ### Log Statement
 Block image:
 
