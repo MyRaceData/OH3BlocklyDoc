@@ -59,7 +59,7 @@ Get the current name, label, state, catagory, tags, groups, or type of an **Item
 ![ItemOptions](https://github.com/MyRaceData/BlocklyImg/blob/main/itemnameoptions.png)
 
 Notes:
-### Send Command
+### Send Command ###
 Block image:
 
 ![SendCommand](https://github.com/MyRaceData/OH3BlocklyDoc/blob/main/SendCommand.png)
@@ -73,10 +73,10 @@ Notes:
 1. valid input is like **Items** eg. ON or OFF for a switch
 2. Clicking 'MyItem' displays a list of **Items** to pick from
 ___
-## Timers and Delays
+## Timers and Delays ##
 ###### image of Timers and Delays catagory ######
 ![TimersAndDelays](https://github.com/MyRaceData/BlocklyImg/blob/main/timersanddelays1.png)
-### Thread Sleep
+### Thread Sleep ###
 Block image:
 
 ![ThreadSleep](https://github.com/MyRaceData/BlocklyImg/blob/main/threadsleep.png)
@@ -87,6 +87,23 @@ Suspends execution of the rule for a given period of time
 Notes:
 1. unit of time (ms) is milliseconds
 2. 1000 ms = 1 second
+3. a number may be directly entered into pink box 
+
+### After *period of time* Do With Timer ###
+Block image:
+
+![AfterTimeDoWithTimer](https://github.com/MyRaceData/BlocklyImg/blob/main/afterxdowithtimer.png)
+
+Function:
+Schedule a task to be performed at a specified period in the future
+
+Notes:
+1. a number may be directly entered into gray box
+
+Options for time
+
+![Time Options](https://github.com/MyRaceData/BlocklyImg/blob/main/timeroptions.png)
+
 ___
 ## Voice and Multimedia
 ###### image of Voice and Multimedia catagory ######
