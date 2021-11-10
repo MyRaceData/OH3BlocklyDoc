@@ -112,15 +112,15 @@ Block image:
 Function:
 Schedule a task to be performed at a specified period in the future with the ability to reschedule, cancel or ignore the timer in the event the timer is retriggered
 
+Options for Reschedule
+
+![Reschedule Options](https://github.com/MyRaceData/BlocklyImg/blob/main/rescheduleoptions.png)
+
 Notes:
 1. a number may be directly entered into gray box
 2. If reschedule is selected, the timer will restart if the timer is retriggered
 3. If cancel is selected, retriggering the timer will cancel it
 4. If do nothing is selected, retriggering the timer will be ignored
-
-Options for Reschedule
-
-![Reschedule Options](https://github.com/MyRaceData/BlocklyImg/blob/main/rescheduleoptions.png)
 ___
 ## Voice and Multimedia
 ###### image of Voice and Multimedia catagory ######
