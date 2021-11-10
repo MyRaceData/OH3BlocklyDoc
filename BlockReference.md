@@ -7,7 +7,10 @@ ___
 ### Table of Contents ###
 * [Items and Things](https://github.com/MyRaceData/OH3BlocklyDoc/blob/main/BlockReference.md#items-and-things)
 * [Timers and Delays](https://github.com/MyRaceData/OH3BlocklyDoc/blob/main/BlockReference.md#timers-and-delays)
+* [Voice and Multimedia](https://github.com/MyRaceData/OH3BlocklyDoc/blob/main/BlockReference.md#voice-and-multimedia)
+* [Notifications](
 * [Value Storage](https://github.com/MyRaceData/OH3BlocklyDoc/blob/main/BlockReference.md#value-storage)
+* [Logging and Output](https://github.com/MyRaceData/OH3BlocklyDoc/blob/main/BlockReference.md#logging-and-output)
 ___
 ## Items and Things
 ###### image of Items and Things catagory ######
