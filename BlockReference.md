@@ -4,6 +4,10 @@ openHAB specific Blockly language block reference
 ###### image of openHAB specific block catagories ######
 ![GetItemState](https://github.com/MyRaceData/BlocklyImg/blob/main/toolboxcatagories.png)
 ___
+### Table of Contents ###
+* [Items and Things](https://github.com/MyRaceData/OH3BlocklyDoc/blob/main/BlockReference.md#items-and-things)
+* [Timers and Delays](https://github.com/MyRaceData/OH3BlocklyDoc/blob/main/BlockReference.md#timers-and-delays)
+___
 ## Items and Things
 ###### image of Items and Things catagory ######
 ![ItemsAndThings](https://github.com/MyRaceData/BlocklyImg/blob/main/itemsandthings.png)
