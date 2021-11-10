@@ -7,7 +7,7 @@ ___
 ### Table of Contents ###
 * [Items and Things](https://github.com/MyRaceData/OH3BlocklyDoc/blob/main/BlockReference.md#items-and-things)
 * [Timers and Delays](https://github.com/MyRaceData/OH3BlocklyDoc/blob/main/BlockReference.md#timers-and-delays)
-* https://github.com/MyRaceData/BlocklyImg/blob/main/valuestorage.png
+* [Value Storage](https://github.com/MyRaceData/OH3BlocklyDoc/blob/main/BlockReference.md#value-storage)
 ___
 ## Items and Things
 ###### image of Items and Things catagory ######
@@ -93,10 +93,9 @@ ___
 ###### image of Value Storage catagory ######
 ![Value Storage](https://github.com/MyRaceData/BlocklyImg/blob/main/valuestorage.png)
 ___
-
-
-
-___
+## Logging and Output
+###### image of Logging and Output catagory ######
+![Logging and Output](https://github.com/MyRaceData/BlocklyImg/blob/main/loggingandoutput.png)
 ### Log Statement
 Block image:
 
