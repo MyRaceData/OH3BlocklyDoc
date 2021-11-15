@@ -121,6 +121,39 @@ Notes:
 2. If reschedule is selected, the timer will restart if the timer is retriggered
 3. If cancel is selected, retriggering the timer will cancel it
 4. If do nothing is selected, retriggering the timer will be ignored
+
+### Cancel Timer ###
+Block image:
+
+![CancelTimer](https://github.com/MyRaceData/BlocklyImg/blob/main/canceltimer.png)
+
+Function:
+Cancels a named timer
+
+Notes:
+
+### Timer is Active ###
+Block image:
+
+![TimerIsActive](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisactive.png)
+
+Function:
+Determines if a named timer is active
+
+Notes:
+1. For use in conditional
+
+
+### Timer is Running ###
+Block image:
+
+![TimerIsRunning](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisrunning.png)
+
+Function:
+Determines if a named timer is running
+
+Notes:
+1. For use in conditional
 ___
 ## Voice and Multimedia
 ###### image of Voice and Multimedia catagory ######
