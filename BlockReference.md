@@ -143,7 +143,6 @@ Determines if a named timer is active
 Notes:
 1. For use in conditional
 
-
 ### Timer is Running ###
 ###### Block image: ######
 
@@ -158,14 +157,126 @@ ___
 ## Voice and Multimedia
 ###### image of Voice and Multimedia catagory ######
 ![VoiceandMultimedia](https://github.com/MyRaceData/BlocklyImg/blob/main/voiceandmultimedia.png)
+
+### Play Audio ###
+###### Block image: ######
+
+![PlayAudio](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisrunning.png)
+
+Function:
+Plays an audio file on an audio sink
+
+Notes:
+1. audio file must reside in userfiles/openhab/sounds
+2. specify an available audio sink
+
+### Play Audio with Volume ###
+###### Block image: ######
+
+![PlayAudiowithVol](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisrunning.png)
+
+Function:
+Plays an audio file on an audio sink at a set volume
+
+Notes:
+1. audio file must reside in userfiles/openhab/sounds
+2. specify an available audio sink
+
+### Play Stream ###
+###### Block image: ######
+
+![PlayStream](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisrunning.png)
+
+Function:
+Starts an stream playing on an audio sink
+
+Notes:
+1. specify an available audio sink
+
+### Stop Stream ###
+###### Block image: ######
+
+![StopStream](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisrunning.png)
+
+Function:
+Stops a playing stream on the specified audio sink
+
+Notes:
+
+### Say ###
+###### Block image: ######
+
+![Say](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisrunning.png)
+
+Function:
+Determines if a named timer is running
+
+Notes:
 ___
 ## Notifications
 ###### image of Notifications catagory ######
 ![Notifications](https://github.com/MyRaceData/BlocklyImg/blob/main/notifications.png)
+
+
+### Send Notification Email ###
+###### Block image: ######
+
+![SendNotificationEmail](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisrunning.png)
+
+Function:
+Sends a notification to an email address
+
+Notes:
+1. Provide valid email address
+
+### Send Notification to All Devices ###
+###### Block image: ######
+
+![SendNotificationAllDevices](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisrunning.png)
+
+Function:
+Sends a notification to all devices
+
+Notes:
+
+
+### Send Notification to Log Only ###
+###### Block image: ######
+
+![SendNotificationtoLog](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisrunning.png)
+
+Function:
+Sends a notification to the log
+
+Notes:
 ___
 ## Value Storage
 ###### image of Value Storage catagory ######
 ![Value Storage](https://github.com/MyRaceData/BlocklyImg/blob/main/valuestorage.png)
+
+
+### Store Value ###
+###### Block image: ######
+
+![StoreValue](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisrunning.png)
+
+Function:
+Stores a value in a keyed pair for use in the future
+
+Notes:
+1. Provide a unique key name
+
+### Get Stored Value ###
+###### Block image: ######
+
+![GetStoredValue](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisrunning.png)
+
+Function:
+Retrieves a stored value in a keyed pair
+
+Notes:
+1. Provide previously named key
+
 ___
 ## Logging and Output
 ###### image of Logging and Output catagory ######
