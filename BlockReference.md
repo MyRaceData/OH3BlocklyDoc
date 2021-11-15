@@ -211,7 +211,7 @@ Notes:
 ![Say](https://github.com/MyRaceData/BlocklyImg/blob/main/say.png)
 
 Function:
-Determines if a named timer is running
+Provides text to speech 
 
 Notes:
 ___
