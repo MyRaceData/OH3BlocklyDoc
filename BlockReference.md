@@ -60,7 +60,7 @@ Get the current name, label, state, catagory, tags, groups, or type of an **Item
 
 Notes:
 ### Send Command ###
-Block image:
+###### Block image: ######
 
 ![SendCommand](https://github.com/MyRaceData/OH3BlocklyDoc/blob/main/SendCommand.png)
 
@@ -77,7 +77,7 @@ ___
 ###### image of Timers and Delays catagory ######
 ![TimersAndDelays](https://github.com/MyRaceData/BlocklyImg/blob/main/timersanddelays1.png)
 ### Thread Sleep ###
-Block image:
+###### Block image: ######
 
 ![ThreadSleep](https://github.com/MyRaceData/BlocklyImg/blob/main/threadsleep.png)
 
@@ -90,7 +90,7 @@ Notes:
 3. a number may be directly entered into pink box 
 
 ### After *period of time* Do With Timer ###
-Block image:
+###### Block image: ######
 
 ![AfterTimeDoWithTimer](https://github.com/MyRaceData/BlocklyImg/blob/main/afterxdowithtimer.png)
 
@@ -105,7 +105,7 @@ Options for time
 ![Time Options](https://github.com/MyRaceData/BlocklyImg/blob/main/timeroptions.png)
 
 ### After *period of time* Do With Timer With Reschedule ###
-Block image:
+###### Block image: ######
 
 ![AfterTimeDoWithTimerWithRetrigger](https://github.com/MyRaceData/BlocklyImg/blob/main/afterXdowithtimerretrigger.png)
 
@@ -123,7 +123,7 @@ Notes:
 4. If do nothing is selected, retriggering the timer will be ignored
 
 ### Cancel Timer ###
-Block image:
+###### Block image: ######
 
 ![CancelTimer](https://github.com/MyRaceData/BlocklyImg/blob/main/canceltimer.png)
 
@@ -133,7 +133,7 @@ Cancels a named timer
 Notes:
 
 ### Timer is Active ###
-Block image:
+###### Block image: ######
 
 ![TimerIsActive](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisactive.png)
 
@@ -145,7 +145,7 @@ Notes:
 
 
 ### Timer is Running ###
-Block image:
+###### Block image: ######
 
 ![TimerIsRunning](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisrunning.png)
 
@@ -171,7 +171,7 @@ ___
 ###### image of Logging and Output catagory ######
 ![Logging and Output](https://github.com/MyRaceData/BlocklyImg/blob/main/loggingandoutput.png)
 ### Log Statement
-Block image:
+###### Block image: ######
 
 ![GetItemState](https://github.com/MyRaceData/OH3BlocklyDoc/blob/main/OHLog.png)
 
