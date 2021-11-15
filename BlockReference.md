@@ -241,6 +241,8 @@ Sends a notification to all devices
 
 Notes:
 
+![SendNotificationOptions](https://github.com/MyRaceData/BlocklyImg/blob/main/notificationoptions.png)
+
 
 ### Send Notification to Log Only ###
 ###### Block image: ######
