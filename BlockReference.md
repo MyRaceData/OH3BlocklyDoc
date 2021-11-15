@@ -221,7 +221,7 @@ ___
 ### Send Notification Email ###
 ###### Block image: ######
 
-![SendNotificationEmail](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisrunning.png)
+![SendNotificationEmail](https://github.com/MyRaceData/BlocklyImg/blob/main/sendemail.png)
 
 Function:
 Sends a notification to an email address
@@ -232,7 +232,7 @@ Notes:
 ### Send Notification to All Devices ###
 ###### Block image: ######
 
-![SendNotificationAllDevices](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisrunning.png)
+![SendNotificationAllDevices](https://github.com/MyRaceData/BlocklyImg/blob/main/sendnotification.png)
 
 Function:
 Sends a notification to all devices
@@ -243,7 +243,7 @@ Notes:
 ### Send Notification to Log Only ###
 ###### Block image: ######
 
-![SendNotificationtoLog](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisrunning.png)
+![SendNotificationtoLog](https://github.com/MyRaceData/BlocklyImg/blob/main/sendnotificationlog.png)
 
 Function:
 Sends a notification to the log
@@ -258,7 +258,7 @@ ___
 ### Store Value ###
 ###### Block image: ######
 
-![StoreValue](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisrunning.png)
+![StoreValue](https://github.com/MyRaceData/BlocklyImg/blob/main/storevalue.png)
 
 Function:
 Stores a value in a keyed pair for use in the future
@@ -269,7 +269,7 @@ Notes:
 ### Get Stored Value ###
 ###### Block image: ######
 
-![GetStoredValue](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisrunning.png)
+![GetStoredValue](https://github.com/MyRaceData/BlocklyImg/blob/main/getvalue.png)
 
 Function:
 Retrieves a stored value in a keyed pair
