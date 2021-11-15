@@ -161,7 +161,7 @@ ___
 ### Play Audio ###
 ###### Block image: ######
 
-![PlayAudio](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisrunning.png)
+![PlayAudio](https://github.com/MyRaceData/BlocklyImg/blob/main/playfile.png)
 
 Function:
 Plays an audio file on an audio sink
@@ -169,11 +169,13 @@ Plays an audio file on an audio sink
 Notes:
 1. audio file must reside in userfiles/openhab/sounds
 2. specify an available audio sink
+###### image of default options: ######
+![PlayOptions](https://github.com/MyRaceData/BlocklyImg/blob/main/playoptions.png)
 
 ### Play Audio with Volume ###
 ###### Block image: ######
 
-![PlayAudiowithVol](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisrunning.png)
+![PlayAudiowithVol](https://github.com/MyRaceData/BlocklyImg/blob/main/playfilewv.png)
 
 Function:
 Plays an audio file on an audio sink at a set volume
@@ -185,7 +187,7 @@ Notes:
 ### Play Stream ###
 ###### Block image: ######
 
-![PlayStream](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisrunning.png)
+![PlayStream](https://github.com/MyRaceData/BlocklyImg/blob/main/playstream.png)
 
 Function:
 Starts an stream playing on an audio sink
@@ -196,7 +198,7 @@ Notes:
 ### Stop Stream ###
 ###### Block image: ######
 
-![StopStream](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisrunning.png)
+![StopStream](https://github.com/MyRaceData/BlocklyImg/blob/main/stopstream.png)
 
 Function:
 Stops a playing stream on the specified audio sink
@@ -206,7 +208,7 @@ Notes:
 ### Say ###
 ###### Block image: ######
 
-![Say](https://github.com/MyRaceData/BlocklyImg/blob/main/timerisrunning.png)
+![Say](https://github.com/MyRaceData/BlocklyImg/blob/main/say.png)
 
 Function:
 Determines if a named timer is running
